@@ -1,0 +1,71 @@
+Left Over position_1:
+position.x = 0.6
+position.y = 0.34
+position.z = 0.1
+orientation.x = -0.5
+orientation.y = -0.5
+orientation.z = 0.5
+orientation.w = -0.5
+
+Left Pickup position_2:
+position.x = 0.6
+position.y = 0.34
+position.z = -0.03
+orientation.x = -0.5
+orientation.y = -0.5
+orientation.z = 0.5
+orientation.w = -0.5
+
+Left Over_Place position_3:
+position.x = 0.6
+position.y = 0.175
+position.z = 0.1
+orientation.x = -0.5
+orientation.y = -0.5
+orientation.z = 0.5
+orientation.w = -0.5
+
+Left Place position_4:
+position.x = 0.6
+position.y = 0.175
+position.z = -0.03
+orientation.x = -0.5
+orientation.y = -0.5
+orientation.z = 0.5
+orientation.w = -0.5
+
+Right Over position_5:
+position.x = 0.6
+position.y = -0.125
+position.z = 0.3
+orientation.x = -0.0
+orientation.y = 1.0
+orientation.z = -0.0
+orientation.w = 0.0
+
+Right Pickup position_6:
+position.x = 0.6
+position.y = -0.125
+position.z = 0.133
+orientation.x = -0.0
+orientation.y = 1.0
+orientation.z = -0.0
+orientation.w = 0.0
+
+Right Over_Attach position_7:
+position.x = 0.605
+position.y = 0.015
+position.z = 0.5
+orientation.x = -0.0
+orientation.y = 1.0
+orientation.z = -0.0
+orientation.w = 0.0
+
+Right Attach position_8:
+position.x = 0.605
+position.y = 0.015
+position.z = 0.349
+orientation.x = -0.0
+orientation.y = 1.0
+orientation.z = -0.0
+orientation.w = 0.0
